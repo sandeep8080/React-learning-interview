@@ -9,19 +9,16 @@
  *     bgColor: "red",
  *     timer: "3000",
  *     next: "green",
- *     stop: false,
  *   },
  *   green: {
  *     bgColor: "green",
  *     timer: "2000",
  *     next: "yellow",
- *     stop: false,
  *   },
  *   yellow: {
  *     bgColor: "yelow",
  *     timer: "4000",
  *     next: "red",
- *     stop: true,
  *   },
  * };
  */
